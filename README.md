@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help AWS
 - 💬 Ask me about anything
-- 📫 How to reach me: (email)[ta.aziz221@gmail.com]
+- 📫 How to reach me: [email](ta.aziz221@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have worked on three different continents
 -->
