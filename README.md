@@ -8,3 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: ta.aziz221@gmail.com
 - ⚡ Fun fact: I have worked on three different continents
+
+
+
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
