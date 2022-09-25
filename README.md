@@ -13,5 +13,10 @@
 
 
    
-Views: ![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
+**Views:** 
+![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
 
+
+(https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
