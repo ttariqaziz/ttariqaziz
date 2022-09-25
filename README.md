@@ -12,10 +12,6 @@
 
 
    
-
+>**VIEWS:**          
 ![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ttariqaziz.visitor-badge)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ttariqaziz&left_color=green&right_color=red)
