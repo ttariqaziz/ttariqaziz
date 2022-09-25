@@ -15,3 +15,6 @@
 >**VIEWS:**          
 ![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
 
+<img align="right" alt="GIF" src="https://github.com/ttariqaziz/ttariqaziz/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
