@@ -5,3 +5,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ttariqaziz.visitor-badge)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ttariqaziz&left_color=green&right_color=red)
+
+[![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
