@@ -16,8 +16,7 @@
 >**VIEWS:**          
 ![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
 
-
->![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ttariqaziz&theme=blue-green)
+<img align="right" alt="GIF" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ttariqaziz&theme=blue-green" />
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
