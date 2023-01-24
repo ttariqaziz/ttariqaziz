@@ -5,12 +5,12 @@
 
 
 
-- 🔭 I’m currently working on Springboard Data Science bootcamp, learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about anything
+- 🔭 I am currently enrolled in the Springboard Data Science Bootcamp, where I am gaining knowledge and hands-on experience in Data Science and Machine Learning.
+- 👯 I am looking to collaborate on open-source projects and gain valuable experience in Data Science and Software Development.
+- 💬 Ask me about anything.
 - 📫 Reach me at: 📧 ta.aziz221@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
 - ⚡ Fun fact: I love coffee ☕
-- 🍹 Moto: Never stop learning, because life never stops teaching!
+- 🍹 My motto is: "Never cease to learn, for life is an endless teacher."
 
 
 >**VIEWS:**          
