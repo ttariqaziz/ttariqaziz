@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/ttariqaziz/ttariqaziz/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 
 ### Hi there, I am a Data Scientist 👋 
@@ -8,6 +8,16 @@
 - 📫 Reach me at: 📧 ta.aziz221@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
 - ⚡ Fun fact: I love coffee ☕
 - 🍹 My motto is: "Never cease to learn, for life is an endless teacher."
+
+
+### You can find my Data Science Portfolio projects and previous work here: ###
+
+| Topic  | Summary |
+| ------------- | ------------- |
+| [Text and Sentiment Analysis NLP Project](https://github.com/ttariqaziz/twitter_text_classification_sentiment_analysis_project)  | Complete data science project from data wrangling to EDA to Machine Learning models using Natural Language Processing |
+
+
+
 
 
 >**VIEWS:**          
