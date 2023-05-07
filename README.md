@@ -14,8 +14,8 @@
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Text and Sentiment Analysis NLP Project](https://github.com/ttariqaziz/twitter_text_classification_sentiment_analysis_project)  | Complete data science project from data wrangling to EDA to Machine Learning models using Natural Language Processing |
-
+| [Text and Sentiment Analysis NLP Project](https://github.com/ttariqaziz/twitter_text_classification_sentiment_analysis_project)  | Complete data science project from data wrangling to EDA to Machine Learning models using Natural Language Processing. |
+| [New York AirBnb Price Prediction using Machine Learning Project](https://github.com/ttariqaziz/nyc_airbnb_price_prediction_project)  | This is an end-to-end data science pipeline project that involves predicting the price of Airbnb listings across the five boroughs of New York. |
 
 
 
