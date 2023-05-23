@@ -1,6 +1,5 @@
 
 
-
 ### Hi there, I am a Data Scientist 👋 
 
 - 🔭 I am a Data Science Fellow @ Springboard, where I am gaining knowledge and hands-on experience in Data Science, Machine Learning and Data Analytics.
