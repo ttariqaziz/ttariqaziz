@@ -18,7 +18,7 @@
 | [Montana's Big Mountain Ski Resort Pricing Model Project](https://github.com/ttariqaziz/big_mountain_ski_resort_pricing_model_project)  | This is a complete data science pipeline project helps in building pricing model for Montana ski resort tickets. |
 | [SQL Data Modeling uing MySQL project](https://github.com/ttariqaziz/data_modeling_MySQL_project) | SQL project shows data modeling, implemented using MySQL, including the schema design, ERD, data dictionary, data insertion, and querying for a HR management system. |
 | [Statistical Modeling in MATLAB - Research Publication](https://github.com/ttariqaziz/statistical_modeling_matlab) | Highlights of my research work in MATLAB, statistical modeling of the unstructured raw data from GPS satellites for several years. Data modeling and processing, followed by different residual plots including trends and root mean square. In the end, the result was compared with independent data set models for validation purposes. The results were also presented at a European conference. |
-
+| [Recommendation System Machine Learning project](https://github.com/ttariqaziz/h-m_recommendation_system_ml_project) | Recommendation System. |
 
 
 
