@@ -25,7 +25,5 @@
 >**VIEWS:**          
 ![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
                       
 - Feel free to 🍴fork, ⭐️ star, 📌 pin, ✂️ modify, or 🚀 contribute to the code. 
