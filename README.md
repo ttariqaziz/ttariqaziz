@@ -15,7 +15,7 @@
 
 
 - 👯 I’m always open to interesting conversations and collaboration 🔭.
-- 📫 Reach me at: 📧 ta.aziz221@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
+- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
 - ⚡ Fun fact: I love coffee ☕ and Learning fulfills my thirst for knowledge 📖💡 
 
 
