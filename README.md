@@ -14,8 +14,7 @@
 | [Statistical Modeling in MATLAB - Research Publication](https://github.com/ttariqaziz/statistical_modeling_matlab) | Highlights of my research work in MATLAB, statistical modeling of the unstructured raw data from GPS satellites for several years. Data modeling and processing, followed by different residual plots including trends and root mean square. Ultimately, the result was compared with independent data set models for validation. The results were also presented at a European conference. |
 
 
-- 🔭 I am a Data Scientist @ DataKind, with expertise and hands-on experience in Data Science, Machine Learning, Natural Language Processing, and Data Analytics.
-- 👯 I’m always open to interesting conversations and collaboration.
+- 👯 I’m always open to interesting conversations and collaboration 🔭.
 - 📫 Reach me at: 📧 ta.aziz221@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
 - ⚡ Fun fact: I love coffee ☕ and Learning fulfills my thirst for knowledge 📖💡 
 
