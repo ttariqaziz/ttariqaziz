@@ -6,6 +6,7 @@
 
 | Topic  | Summary |
 | ------------- | ------------- |
+| [Understanding Weather and Crime relationship using Machine Learning - Omdena](https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena)  | End-to-end machine learning project about understanding the relationship between crime and weather in Houston, TX. |
 | [Twitter Text and Sentiment Analysis on COVID-19 data using NLP Project](https://github.com/ttariqaziz/twitter_text_classification_sentiment_analysis_project)  | Complete data science project focusing on COVID-19 Twitter data to analyze sentiments and text, including data cleaning and formatting, data wrangling, Tokenization, Lemmatization, and EDA. TD-IDF, feature selection to Machine Learning models using Natural Language Processing followed by hyperparameter tuning and feature importance, achieved 64% training and 63% testing accuracy. |
 | [New York Airbnb Price Prediction using Machine Learning Project](https://github.com/ttariqaziz/nyc_airbnb_price_prediction_project)  | This is an end-to-end data science pipeline project that involves predicting the price of Airbnb listings across the five boroughs of New York, achieved R-squared = 57%, MSE = 0.19, MAE = 0.14. |
 | [H&M Fashion Recommendation System using Machine Learning project](https://github.com/ttariqaziz/h-m_recommendation_system_ml_project) | Scrapped data from Kaggle to build a Recommendation System from data gathering to data wrangling, and exploratory data analysis to get insights of the data. |
