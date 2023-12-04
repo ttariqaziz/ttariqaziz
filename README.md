@@ -1,5 +1,4 @@
 
-
 ### Hi there, I am a Data Scientist 👋 
 
 ### You can find my Data Science Portfolio projects and previous work here: ###
