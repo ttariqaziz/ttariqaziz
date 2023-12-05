@@ -19,6 +19,8 @@
 - 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-tariq-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtariqaziz/)](https://www.linkedin.com/in/mtariqaziz/)
 - ⚡ Fun fact: I love coffee ☕ and Learning fulfills my thirst for knowledge 📖💡 
 
+## Activity Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttariqaziz&theme=default)
 
 >**VIEWS:**          
 ![Visitor Count](https://profile-counter.glitch.me/{ttariqaziz}/count.svg)
